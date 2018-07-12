@@ -51,3 +51,10 @@ colored-man-pages
 zsh-completions
 zsh-syntax-highlighting
 ```
+
+### 双击状态栏最大化
+* settings -> window manager -> advanced -> double click action
+* settings -> mouse and touchpad -> behavior -> double click -> time -> 571ms
+
+### vim 粘贴进入 visual 模式
+* .vimrc -> set mouse=
